@@ -17,9 +17,11 @@ STEP 1: Clone this linux source repository.
         git clone git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git
 
 STEP 2: Go to /linux/tools/lib/perf 
+        
         make 
         
 STEP 3: Go to /linux/perf/tools/lib/api
+        
         make 
 
 STEP 4: Copy libperf.a and libapi.a to the perf_cycle_codes directory 
