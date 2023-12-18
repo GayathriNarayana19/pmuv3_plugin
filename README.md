@@ -10,7 +10,7 @@ To Generate static library
 
         ar rcs pmuv3_plugin.a pmuv3_plugin.o
 
-How libperf.a and libapi.a were compiled?
+How libperf.a and libapi.a were compiled? Recommendation: Please compile and replace it with your compiled liperf.a and libapi.a as it is platform dependent. 
 
 STEP 1: Clone this linux source repository.
 
