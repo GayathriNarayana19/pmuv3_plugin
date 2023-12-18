@@ -1,6 +1,10 @@
-I have pushed the compiled object files and static libraries for ease of use. 
+NOTE TO THE READERS: 
 
-However, these are the compilation steps 
+These were created and compiled on Target (ARM N1) 
+You can use the compiled binaries and static libraries .a files if you are running on the same target (N1)
+Else, please follow the below steps and replace the .a and .o files with your own binaries after you clone.  
+
+these are the compilation steps 
 
 To Generate Object file
 
