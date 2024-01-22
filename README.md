@@ -28,6 +28,6 @@ STEP 3: Go to /linux/perf/tools/lib/api
         
         make 
 
-STEP 4: Copy libperf.a and libapi.a to the perf_cycle_codes directory 
+STEP 4: Copy libperf.a and libapi.a to the pmuv3_plugin directory 
 
 
